@@ -1,0 +1,1 @@
+Basic hotdog glamour photo implementation with centered layout and styling. Uses a free Unsplash image.
